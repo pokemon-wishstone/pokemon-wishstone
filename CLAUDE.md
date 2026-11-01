@@ -16,6 +16,8 @@ Repo: `github.com/pokemon-wishstone/pokemon-wishstone` (a fork of RHH).
   Keep diffs small, don't rename upstream identifiers, and don't reformat code you didn't change.
 - **Ask the owner** about design calls (story, regional dex, balance) and about anything that breaks existing
   saves. Pick sensible defaults for mechanical details and say what you picked.
+- **Credit third-party assets** (tilesets, sprites, music from other creators) in `WISHSTONE_CREDITS.md` when
+  adding them.
 - **Keep this file project-level.** It holds durable workflows, conventions, and gotchas. Don't log individual
   changes here; git history is the change log.
 
